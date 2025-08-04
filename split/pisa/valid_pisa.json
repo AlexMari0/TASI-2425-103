@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Chicken Forum",
+    "context": "Posting Forum (Teks Utama): Ivana_88 (Pembuat Thread) Diposting 28 Oktober 18:12 Halo semuanya! Apakah aman memberi aspirin pada ayam betina saya? Dia berusia 2 tahun dan saya rasa kakinya terluka. Saya tidak bisa ke dokter hewan sampai hari Senin, dan dokter hewan tidak menjawab telepon. Ayam betina saya tampaknya sangat kesakitan. Saya ingin memberinya sesuatu untuk membuatnya merasa lebih baik sampai saya bisa pergi ke dokter hewan. Terima kasih atas bantuan Anda. NellieB79 Diposting 28 Oktober 18:36 Saya tidak tahu apakah aspirin aman untuk ayam betina atau tidak. Saya selalu berkonsultasi dengan dokter hewan sebelum memberikan obat pada burung saya. Saya tahu bahwa beberapa obat yang aman untuk manusia bisa sangat berbahaya bagi burung. Monie Diposting 28 Oktober 18:52 Saya memberi aspirin pada salah satu ayam betina saya ketika dia terluka. Tidak ada masalah. Keesokan harinya saya pergi ke dokter hewan tetapi dia sudah lebih baik. Saya pikir itu mungkin berbahaya jika Anda memberi terlalu banyak, jadi jangan melebihi batas dosis! Saya harap dia merasa lebih baik! Avian_Deals Diposting 28 Oktober 19:07 Hai! Jangan lupa untuk memeriksa penawaran super rendah saya untuk semua perlengkapan burung. Saya sedang mengadakan penjualan besar sekarang! Bob Diposting 28 Oktober 19:15 Bisakah seseorang memberi tahu saya cara mengetahui apakah ayam sakit? Terima kasih. Frank Diposting 28 Oktober 19:21 Halo Ivana, saya seorang dokter hewan, yang mengkhususkan diri pada burung. Tidak apa-apa untuk memberikan aspirin pada ayam yang terluka jika mereka menunjukkan tanda-tanda kesakitan. Saat meresepkan aspirin untuk burung, saya mengikuti pedoman yang diterbitkan dalam Clinical Avian Medicine. Ayam harus menerima 5mg aspirin per kg berat badan. Anda dapat memberikan ini 3–4 kali sehari sampai Anda dapat menemui dokter hewan Anda. Sangat penting untuk menindaklanjuti dengan dokter hewan Anda. Semoga berhasil!",
+    "question": [
+      "Apa yang ingin diketahui Ivana_88?",
+      "Mengapa Ivana_88 memutuskan untuk memposting pertanyaannya di forum Internet?",
+      "Siapa yang punya pengalaman positif memberikan aspirin pada ayam yang terluka?",
+      "Mengapa Avian_Deals menanggapi postingan Ivana_88?",
+      "Apakah postingan NellieB79 relevan dengan masalah Ivana_88?",
+      "Apakah postingan Monie relevan dengan masalah Ivana_88?",
+      "Apakah postingan Avian_Deals relevan dengan masalah Ivana_88?",
+      "Apakah postingan Bob relevan dengan masalah Ivana_88?",
+      "Apakah postingan Frank relevan dengan masalah Ivana_88?"
+    ],
+    "answer": [
+      "Jika dia bisa memberikan aspirin pada ayam yang terluka.",
+      "Karena dia ingin membantu ayamnya sesegera mungkin.",
+      "Monie",
+      "Untuk mempromosikan suatu bisnis.",
+      "Ya",
+      "Ya",
+      "TIDAK",
+      "TIDAK",
+      "Ya"
+    ]
+  },
+  {
+    "title": "Genetically Modified Crops",
+    "context": "Jagung GM Harus Dilarang Kelompok konservasi satwa liar menuntut agar jagung rekayasa genetika (GM) baru dilarang. Jagung GM ini dirancang agar tidak terpengaruh oleh herbisida baru yang kuat yang membunuh tanaman jagung konvensional. Herbisida baru ini akan membunuh sebagian besar gulma yang tumbuh di ladang jagung. Para konservasionis mengatakan bahwa karena gulma ini merupakan makanan bagi hewan kecil, terutama serangga, penggunaan herbisida baru dengan jagung GM akan berdampak buruk bagi lingkungan. Pendukung penggunaan jagung GM mengatakan bahwa sebuah studi ilmiah telah menunjukkan bahwa ini tidak akan terjadi. Berikut adalah rincian studi ilmiah yang disebutkan dalam artikel di atas: • Jagung ditanam di 200 ladang di seluruh negeri. • Setiap ladang dibagi menjadi dua. Jagung rekayasa genetika (GM) yang diobati dengan herbisida baru yang kuat ditanam di satu bagian, dan jagung konvensional yang diobati dengan herbisida konvensional ditanam di bagian lainnya. • Jumlah serangga yang ditemukan pada jagung GM, yang diobati dengan herbisida baru, hampir sama dengan jumlah serangga pada jagung konvensional, yang diobati dengan herbisida konvensional.",
+    "question": [
+      "Jagung ditanam di 200 ladang di seluruh negeri. Mengapa para ilmuwan menggunakan lebih dari satu lokasi?"
+    ],
+    "answer": [
+      "Untuk menyertakan berbagai kondisi pertumbuhan jagung."
+    ]
+  }
+]

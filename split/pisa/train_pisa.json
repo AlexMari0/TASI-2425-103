@@ -1,0 +1,190 @@
+[
+  {
+    "title": "Bird Migration",
+    "context": "MIGRASI BURUNG Migrasi burung adalah perpindahan burung musiman dalam skala besar ke dan dari tempat berkembang biaknya. Setiap tahun, para relawan menghitung burung yang bermigrasi di lokasi tertentu. Para ilmuwan menangkap beberapa burung dan menandai kaki mereka dengan kombinasi cincin dan bendera berwarna. Para ilmuwan menggunakan penampakan burung yang ditandai bersama dengan hitungan para relawan untuk menentukan rute migrasi burung.",
+    "question": [
+      "Sebagian besar burung yang bermigrasi berkumpul di satu area dan kemudian bermigrasi dalam kelompok besar, bukan secara individual. Perilaku ini merupakan hasil evolusi. Manakah dari penjelasan ilmiah berikut yang paling tepat untuk evolusi perilaku ini pada sebagian besar burung yang bermigrasi?"
+    ],
+    "answer": [
+      "Burung yang bermigrasi secara individu atau dalam kelompok kecil cenderung tidak dapat bertahan hidup dan memiliki keturunan."
+    ]
+  },
+  {
+    "title": "Bread Dough",
+    "context": "Untuk membuat adonan roti, seorang juru masak mencampur tepung, air, garam, dan ragi. Setelah tercampur, adonan ditaruh dalam wadah selama beberapa jam agar proses fermentasi dapat berlangsung. Selama fermentasi, terjadi perubahan kimia dalam adonan: ragi (jamur bersel tunggal) membantu mengubah pati dan gula dalam tepung menjadi karbon dioksida dan alkohol.",
+    "question": [
+      "Fermentasi menyebabkan adonan mengembang. Mengapa adonan mengembang?",
+      "Ketika adonan yang sudah mengembang (beragi) dimasukkan ke dalam oven untuk dipanggang, kantung gas dan uap dalam adonan mengembang. Mengapa gas dan uap mengembang saat dipanaskan?"
+    ],
+    "answer": [
+      "Adonan mengembang karena dihasilkan gas, karbon dioksida.",
+      "Molekulnya bergerak lebih cepat."
+    ]
+  },
+  {
+    "title": "Clothes",
+    "context": "Sekelompok ilmuwan Inggris tengah mengembangkan pakaian \"cerdas\" yang akan memberikan anak-anak cacat kemampuan \"berbicara\". Anak-anak yang mengenakan rompi yang terbuat dari kain elektrotekstil unik, yang dihubungkan dengan synthesizer ucapan, akan dapat membuat diri mereka dipahami hanya dengan mengetuk bahan yang peka terhadap sentuhan tersebut. Bahan tersebut terbuat dari kain biasa dan anyaman serat karbon yang dapat menghantarkan listrik. Ketika tekanan diberikan pada kain, pola sinyal yang melewati serat penghantar tersebut berubah dan sebuah chip komputer dapat mengetahui bagian mana kain tersebut telah disentuh. Kemudian, chip tersebut dapat memicu perangkat elektronik apa pun yang terpasang padanya, yang ukurannya tidak boleh lebih besar dari dua kotak korek api. \"Hal yang cerdas adalah bagaimana kita menenun kain dan bagaimana kita mengirimkan sinyal melaluinya - dan kita dapat menenunnya ke dalam desain kain yang sudah ada sehingga Anda tidak dapat melihatnya,\" kata salah seorang ilmuwan. Tanpa rusak, bahan tersebut dapat dicuci, dililitkan pada benda, atau diremas. Ilmuwan tersebut juga mengklaim bahwa bahan tersebut dapat diproduksi massal dengan biaya murah.",
+    "question": [
+      "Peralatan laboratorium manakah yang termasuk peralatan yang Anda perlukan untuk memeriksa apakah kain tersebut menghantarkan listrik?"
+    ],
+    "answer": [
+      "Pengukur tegangan volt."
+    ]
+  },
+  {
+    "title": "Cow's Milk",
+    "context": "Produk Susu dari Ladang ke Pasar Nilai Gizi Susu: Manfaat yang Tak Terhitung! Produk susu dari Ladang ke Pasar mengandung nutrisi utama: kalsium, protein, vitamin D, vitamin B12, riboflavin, dan kalium. Vitamin dan mineral ini menjadikan produk susu dari Ladang ke Pasar sebagai bagian penting dari pola makan yang sehat. Mengonsumsi produk susu dari Ladang ke Pasar setiap hari adalah cara yang bagus untuk memastikan Anda mendapatkan vitamin dan mineral yang dibutuhkan tubuh Anda. Mengonsumsi produk susu dari Ladang ke Pasar meningkatkan penurunan berat badan dan membantu menjaga berat badan yang sehat. Susu meningkatkan kekuatan dan kepadatan tulang. Bahkan meningkatkan kesehatan kardiovaskular dan membantu mencegah kanker. Segelas susu dikemas dengan vitamin, mineral, dan banyak manfaat kesehatan. Menurut Bill Sears, MD, Associate Clinical Professor of Pediatrics di University of California di Irvine, susu mengandung banyak nutrisi penting di satu tempat yang praktis. International Dairy Foods Association (IDFA) mendukung gagasan ini. Bahkan, IDFA menyarankan bahwa banyak profesional dan kelompok kesehatan juga akan setuju: Susu mengandung paket nutrisi lengkap dari sembilan nutrisi penting. Selain menjadi sumber kalsium dan vitamin D yang sangat baik, susu juga merupakan sumber vitamin A, protein, dan kalium yang baik. Susu direkomendasikan oleh para dokter. Peran susu dalam pola makan sehat telah lama ditetapkan oleh komunitas nutrisi dan sains. Ini termasuk National Osteoporosis Foundation, Surgeon General, National Institutes of Health, American Medical Association's Council of Scientific Affairs, dan banyak organisasi kesehatan terkemuka lainnya. International Dairy Foods Association, 27 September 2007",
+    "question": [
+      "Menurut IDFA, apakah para profesional dan organisasi kesehatan terkemuka setuju dengan pernyataan Chich?",
+      "Apa tujuan utama teks ini?"
+    ],
+    "answer": [
+      "Susu merupakan sumber vitamin dan mineral penting yang baik",
+      "Untuk mendukung penggunaan produk susu dari pertanian ke pasar"
+    ]
+  },
+  {
+    "title": "Cow's Milk",
+    "context": "ARTIKEL KESEHATAN HARI INI KATAKAN 'TIDAK' PADA SUSU SAPI! Oleh Health Reporter, Dr. R. Garza Susu sapi merupakan bagian besar dari kehidupan banyak orang di Amerika Serikat. Bayi minum susu sapi dalam botol. Anak-anak makan sereal yang disiram susu sapi. Bahkan orang dewasa menikmati segelas susu dingin dari waktu ke waktu. Ya, susu sapi merupakan bagian besar dari makanan manusia di banyak tempat di seluruh dunia. Namun, semakin banyak penelitian yang menunjukkan bahwa susu mungkin tidak \"bermanfaat bagi tubuh\" seperti yang diklaim oleh slogan iklan Amerika yang populer. Departemen Pertanian Amerika Serikat, American Dairy Council, Dairy Management, Inc., dan organisasi lain telah bekerja keras untuk mengadvokasi susu selama bertahun-tahun. Mereka mendorong orang dewasa untuk minum setidaknya tiga gelas susu sehari. Namun, beberapa penelitian dalam dekade terakhir telah mempertanyakan kekuatan susu dalam memperkuat tulang serta klaim lain tentang manfaat kesehatan susu. Hasilnya mungkin mengejutkan Anda. Salah satu studi terbaru dan terpenting tentang dampak minum susu dipublikasikan dalam British Medical Journal edisi Oktober 2014. Temuan dalam studi ini menghasilkan beberapa pernyataan kuat tentang konsumsi susu. Dalam studi ini, lebih dari 100.000 orang di Swedia diteliti selama periode 20–30 tahun. Peneliti menemukan bahwa peminum susu wanita lebih sering mengalami patah tulang. Selain itu, baik peminum susu pria maupun wanita lebih mungkin menderita penyakit jantung dan kanker. Hasil ini serupa dengan temuan dari studi lain. Physicians Committee for Responsible Medicine (PCRM) mengomentari beberapa masalah tambahan terkait konsumsi susu. Mereka mengklaim bahwa susu dan protein hewani memiliki sedikit atau tidak ada manfaat bagi tulang. PCRM lebih jauh menjelaskan beberapa masalah khusus yang terkait dengan susu:",
+    "question": [
+      "Penulis kedua teks tersebut tidak sependapat tentang peran susu dalam pola makan sehari-hari. Apa poin utama yang tidak disetujui oleh kedua penulis tersebut?",
+      "Apakah pernyataan ini dapat mewakili tujuan artikel? Untuk mempertanyakan manfaat produk susu bagi kesehatan secara umum.",
+      "Apakah pernyataan ini dapat mewakili tujuan artikel? Untuk membahas berbagai temuan penelitian tentang susu sapi.",
+      "Apakah pernyataan ini dapat mewakili tujuan artikel? Untuk menunjukkan bahwa susu dan produk olahan susu lainnya belum diteliti.",
+      "Apakah pernyataan tersebut fakta atau opini? Penelitian terbaru tentang manfaat susu bagi kesehatan sungguh mengejutkan.",
+      "Apakah pernyataan tersebut fakta atau opini? Penelitian telah menunjukkan bahwa minum susu memiliki dampak buruk terhadap kesehatan.",
+      "Apakah pernyataan tersebut fakta atau opini? Beberapa penelitian telah mempertanyakan kekuatan susu untuk memperkuat tulang.",
+      "Apakah pernyataan tersebut fakta atau opini? Minum susu dan produk olahan susu lainnya adalah cara terbaik untuk menurunkan berat badan."
+    ],
+    "answer": [
+      "Dampak susu terhadap kesehatan dan peran susu dalam pola makan manusia",
+      "Ya",
+      "Ya",
+      "TIDAK",
+      "Pendapat",
+      "Fakta",
+      "Fakta",
+      "Pendapat"
+    ]
+  },
+  {
+    "title": "Daylight",
+    "context": "Hari ini, saat Belahan Bumi Utara merayakan hari terpanjangnya, warga Australia akan mengalami hari terpendeknya. Di Melbourne*, Australia, Matahari akan terbit pada pukul 7:36 pagi dan terbenam pada pukul 5:08 sore, sehingga siang hari berlangsung selama sembilan jam dan 32 menit. Bandingkan hari ini dengan hari terpanjang tahun ini di Belahan Bumi Selatan, yang diperkirakan terjadi pada tanggal 22 Desember, saat Matahari akan terbit pada pukul 5:55 pagi dan terbenam pada pukul 8:42 malam, sehingga siang hari berlangsung selama 14 jam dan 47 menit. Presiden Astronomical Society, Tn. Perry Vlahos, mengatakan adanya perubahan musim di Belahan Bumi Utara dan Selatan terkait dengan kemiringan Bumi sebesar 23 derajat.",
+    "question": [
+      "Pernyataan manakah yang menjelaskan mengapa siang dan malam terjadi di Bumi?"
+    ],
+    "answer": [
+      "Bumi berputar pada porosnya."
+    ]
+  },
+  {
+    "title": "Flu",
+    "context": "PROGRAM IMUNISASI FLU SUKARELA ACOL Seperti yang Anda ketahui, flu dapat menyerang dengan cepat dan meluas selama musim dingin. Flu dapat membuat korbannya sakit selama berminggu-minggu. Cara terbaik untuk melawan virus ini adalah dengan memiliki tubuh yang bugar dan sehat. Olahraga harian dan pola makan yang mencakup banyak buah dan sayuran sangat dianjurkan untuk membantu sistem kekebalan tubuh melawan virus yang menyerang ini. ACOL telah memutuskan untuk menawarkan kesempatan kepada staf untuk diimunisasi terhadap flu sebagai cara tambahan untuk mencegah virus berbahaya ini menyebar di antara kita. ACOL telah mengatur seorang perawat untuk memberikan imunisasi di ACOL, selama sesi setengah hari selama jam kerja pada minggu tanggal 17 Mei. Program ini gratis dan tersedia untuk semua anggota staf. Partisipasi bersifat sukarela. Staf yang mengambil pilihan akan diminta untuk menandatangani formulir persetujuan yang menyatakan bahwa mereka tidak memiliki alergi apa pun, dan bahwa mereka memahami bahwa mereka mungkin mengalami efek samping ringan. Saran medis menunjukkan bahwa imunisasi tidak menyebabkan influenza. Namun, imunisasi dapat menyebabkan beberapa efek samping seperti kelelahan, demam ringan, dan nyeri pada lengan. Siapa saja yang harus diimunisasi? Siapa saja yang ingin terlindungi dari virus. Imunisasi ini khususnya direkomendasikan bagi orang yang berusia di atas 65 tahun. Namun, tanpa memandang usia, SIAPA SAJA yang memiliki penyakit kronis yang melemahkan, khususnya penyakit jantung, paru-paru, bronkial, atau diabetes. Di lingkungan kantor, SEMUA staf berisiko tertular flu. Siapa saja yang tidak boleh diimunisasi? Orang yang hipersensitif terhadap telur, orang yang menderita penyakit demam akut, dan wanita hamil. Konsultasikan dengan dokter jika Anda sedang mengonsumsi obat apa pun atau pernah mengalami reaksi terhadap suntikan flu. Jika Anda ingin diimunisasi pada minggu tanggal 17 Mei, harap beri tahu petugas personalia, Fiona McSweeney, paling lambat hari Jumat tanggal 7 Mei. Tanggal dan waktu akan ditentukan berdasarkan ketersediaan perawat, jumlah peserta, dan waktu yang sesuai bagi sebagian besar staf. Jika Anda ingin diimunisasi untuk musim dingin ini tetapi tidak dapat hadir pada waktu yang telah ditentukan, harap beri tahu Fiona. Sesi alternatif dapat diatur jika jumlah peserta mencukupi. Untuk informasi lebih lanjut, harap hubungi Fiona di ext. 5577.",
+    "question": [
+      "Manakah dari berikut ini yang menggambarkan fitur program imunisasi flu ACOL?",
+      "Menurut lembar informasi ini, jika Anda ingin melindungi diri Anda dari virus flu, suntikan flu adalah",
+      "Menurut lembar informasi, staf manakah yang harus menghubungi Fiona?"
+    ],
+    "answer": [
+      "Imunisasi akan diberikan selama jam kerja.",
+      "ide yang bagus, tetapi tidak dapat menggantikan olahraga dan diet sehat.",
+      "Michael dari akun yang ingin diimunisasi tetapi akan cuti pada minggu tanggal 17 Mei."
+    ]
+  },
+  {
+    "title": "In Poor Taste",
+    "context": "dari Arnold Jago Tahukah Anda bahwa pada tahun 1996 kita menghabiskan jumlah yang hampir sama untuk cokelat seperti yang dihabiskan Pemerintah kita untuk bantuan luar negeri guna membantu kaum miskin? Mungkinkah ada yang salah dengan prioritas kita? Apa yang akan Anda lakukan? Ya, Anda. Arnold Jago, Mildura Sumber: Surat kabar The Age, Melbourne, Australia, 1 April 1997.",
+    "question": [
+      "Tujuan Arnold Jago dalam suratnya adalah untuk memprovokasi"
+    ],
+    "answer": [
+      "Kesalahan"
+    ]
+  },
+  {
+    "title": "Mary Montagu",
+    "context": "Sejarah Vaksinasi Mary Montagu adalah seorang wanita cantik. Ia selamat dari serangan cacar pada tahun 1715 tetapi tubuhnya dipenuhi bekas luka. Ketika tinggal di Turki pada tahun 1717, ia mengamati sebuah metode yang disebut inokulasi yang umum digunakan di sana. Perawatan ini melibatkan penggoresan virus cacar jenis lemah ke dalam kulit orang muda yang sehat yang kemudian menjadi sakit, tetapi dalam kebanyakan kasus hanya dengan bentuk penyakit yang ringan. Mary Montagu sangat yakin akan keamanan inokulasi ini sehingga ia mengizinkan putra dan putrinya untuk diinokulasi. Pada tahun 1796, Edward Jenner menggunakan inokulasi penyakit terkait, cacar sapi, untuk menghasilkan antibodi terhadap cacar. Dibandingkan dengan inokulasi cacar, perawatan ini memiliki lebih sedikit efek samping dan orang yang dirawat tidak dapat menularkan kepada orang lain. Perawatan ini kemudian dikenal sebagai vaksinasi.",
+    "question": [
+      "Penyakit apa saja yang bisa dicegah dengan vaksinasi?",
+      "Jika hewan atau manusia jatuh sakit karena penyakit bakteri menular dan kemudian sembuh, jenis bakteri yang menyebabkan penyakit tersebut biasanya tidak akan membuat mereka sakit lagi. Apa alasannya?"
+    ],
+    "answer": [
+      "Penyakit yang disebabkan oleh virus, seperti polio",
+      "Tubuh telah membuat antibodi yang membunuh bakteri jenis ini sebelum mereka berkembang biak"
+    ]
+  },
+  {
+    "title": "Meteoroids and Craters",
+    "context": "METEOROID DAN KAWAH Batuan di angkasa yang memasuki atmosfer Bumi disebut meteoroid. Meteoroid memanas dan bersinar saat jatuh melalui atmosfer Bumi. Sebagian besar meteoroid terbakar sebelum menghantam permukaan Bumi. Saat meteoroid menghantam Bumi, ia dapat membuat lubang yang disebut kawah.",
+    "question": [
+      "Lihat \"Meteoroid dan Kawah\" di sebelah kanan. Klik pada pilihan untuk menjawab pertanyaan. Saat meteoroid mendekati Bumi dan atmosfernya, kecepatannya bertambah. Mengapa ini terjadi?"
+    ],
+    "answer": [
+      "Meteoroid tersebut tertarik oleh massa Bumi."
+    ]
+  },
+  {
+    "title": "Rock Concert",
+    "context": "Untuk sebuah konser rock, disediakan lapangan persegi panjang berukuran 100 m x 50 m untuk penonton. Tiket konser terjual habis dan lapangan penuh dengan semua penggemar yang berdiri.",
+    "question": [
+      "Manakah dari berikut ini yang mungkin merupakan perkiraan terbaik mengenai jumlah total orang yang menghadiri konser tersebut?"
+    ],
+    "answer": [
+      "20000"
+    ]
+  },
+  {
+    "title": "Runners",
+    "context": "Merasa nyaman dengan pelari Anda Selama 14 tahun Pusat Kedokteran Olahraga Lyon (Prancis) telah mempelajari cedera pemain olahraga muda dan profesional olahraga. Studi tersebut telah menetapkan bahwa tindakan terbaik adalah pencegahan … dan sepatu yang bagus. Benturan, jatuh, keausan… Delapan belas persen pemain olahraga berusia 8 hingga 12 tahun sudah mengalami cedera tumit. Tulang rawan pergelangan kaki pemain sepak bola tidak merespons dengan baik terhadap guncangan, dan 25% profesional telah menemukan sendiri bahwa itu adalah titik yang sangat lemah. Tulang rawan sendi lutut yang halus juga dapat rusak tidak dapat diperbaiki dan jika perawatan tidak dilakukan dengan benar sejak masa kanak-kanak (usia 10–12 tahun), ini dapat menyebabkan osteoartritis prematur. Pinggul juga tidak luput dari kerusakan dan, terutama saat lelah, pemain berisiko mengalami patah tulang akibat jatuh atau tabrakan. Menurut penelitian tersebut, pemain sepak bola yang telah bermain selama lebih dari sepuluh tahun memiliki pertumbuhan tulang baik di tibia maupun di tumit. Inilah yang dikenal sebagai “kaki pemain sepak bola”, kelainan bentuk yang disebabkan oleh sepatu dengan sol dan bagian pergelangan kaki yang terlalu lentur. Melindungi, menyokong, menstabilkan, menyerap Jika sepatu terlalu kaku, ia membatasi gerakan. Jika terlalu lentur, ia meningkatkan risiko cedera dan terkilir. Sepatu olahraga yang baik harus memenuhi empat kriteria: 1. Memberikan perlindungan eksterior: Menahan benturan dari bola atau pemain lain, mengatasi ketidakrataan di tanah, dan menjaga kaki tetap hangat dan kering bahkan saat cuaca sangat dingin dan hujan. 2. Menyokong kaki: Khususnya, sendi pergelangan kaki, untuk menghindari terkilir, bengkak, dan masalah lainnya, yang bahkan dapat memengaruhi lutut. 3. Memberikan stabilitas yang baik: Sehingga pemain tidak tergelincir di tanah basah atau tergelincir di permukaan yang terlalu kering. 4. Menyerap guncangan: Terutama yang dialami oleh pemain bola voli dan bola basket yang terus-menerus melompat. Kaki kering Untuk menghindari kondisi yang ringan namun menyakitkan seperti lecet atau bahkan pecah-pecah atau kutu air (infeksi jamur), sepatu harus memungkinkan penguapan keringat dan harus mencegah masuknya kelembapan dari luar. Bahan yang ideal untuk ini adalah kulit, yang dapat dibuat kedap air untuk mencegah sepatu basah kuyup saat pertama kali terkena hujan.",
+    "question": [
+      "Apa yang ingin ditunjukkan penulis dalam teks ini?"
+    ],
+    "answer": [
+      "Bahwa sangat penting bagi atlet muda untuk memakai sepatu olahraga yang bagus"
+    ]
+  },
+  {
+    "title": "Space Flight",
+    "context": "Stasiun luar angkasa Mir tetap mengorbit selama 15 tahun dan mengitari Bumi sekitar 86.500 kali selama berada di luar angkasa. Masa tinggal terlama seorang kosmonot di Mir adalah sekitar 680 hari.",
+    "question": [
+      "Kira-kira berapa kali kosmonot ini terbang mengelilingi Bumi?"
+    ],
+    "answer": [
+      "11000"
+    ]
+  },
+  {
+    "title": "The Galapagos Islands",
+    "context": "Kepulauan Galapagos – Harta Karun Alam Terletak 1000 kilometer di sebelah barat pantai Amerika Selatan, terdapat Kepulauan Galapagos - salah satu tempat paling menarik di dunia. Saat ini, terdapat 95 spesies hewan asli yang hanya hidup di berbagai pulau di kepulauan tersebut. Banyak orang bepergian ke Kepulauan Galapagos untuk mengamati hewan-hewan istimewa ini di habitat aslinya. Kepulauan ini sering disebut sebagai \"laboratorium hidup\" karena menawarkan potensi penelitian yang besar bagi para ilmuwan. Karena berada di dekat garis khatulistiwa, pulau-pulau ini mendapatkan banyak sinar matahari, sementara arus laut yang kuat menghasilkan angin sepoi-sepoi yang sejuk. Banyak tumbuhan dan hewan tumbuh subur di lingkungan ini. Baik wisatawan maupun ilmuwan sama-sama terpesona oleh hewan-hewan yang tampaknya sama penasarannya dengan manusia seperti kita terhadap mereka. Hewan-hewan Galapagos berevolusi selama ratusan tahun tanpa campur tangan manusia atau pemangsaan dan akibatnya, ketika didekati oleh manusia, mereka tidak menunjukkan rasa takut seperti kebanyakan hewan di seluruh dunia. Mereka sering kali menghampiri pengunjung! Perilaku ini menciptakan peluang foto yang menakjubkan, tetapi membuat hewan-hewan ini sangat rentan. Selama bertahun-tahun, ekosistem di sekitar Kepulauan Galapagos telah terancam karena aktivitas manusia di pulau-pulau tersebut. Kerusakan ekosistem tersebut berdampak negatif pada populasi banyak hewan di Galapagos. Untungnya, dengan kerja keras para peneliti yang berdedikasi, ekosistem tersebut perlahan pulih.",
+    "question": [
+      "Menurut laman web Konservasi, apa tujuan utama para konservasionis memulai program pengembangbiakan kura-kura?",
+      "Apa kesamaan antara Kura-kura Galapagos, Iguana Laut, dan Burung Kormoran yang Tidak Bisa Terbang?"
+    ],
+    "answer": [
+      "Untuk menyelamatkan kura-kura dari kepunahan.",
+      "Populasi mereka terancam"
+    ]
+  },
+  {
+    "title": "Tobacco Smoking",
+    "context": "Tembakau dihisap dalam rokok, cerutu, dan pipa. Penelitian menunjukkan bahwa penyakit yang berhubungan dengan tembakau membunuh hampir 13.500 orang di seluruh dunia setiap hari. Diperkirakan bahwa, pada tahun 2020, penyakit yang berhubungan dengan tembakau akan menyebabkan 12% dari semua kematian di seluruh dunia. Asap tembakau mengandung banyak zat berbahaya. Zat yang paling merusak adalah tar, nikotin, dan karbon monoksida.",
+    "question": [
+      "Asap rokok dihirup ke dalam paru-paru. Tar dari asap rokok mengendap di paru-paru dan ini mencegah paru-paru bekerja dengan baik. Manakah dari berikut ini yang merupakan fungsi paru-paru?",
+      "Beberapa orang menggunakan koyo nikotin untuk membantu mereka berhenti merokok. Koyo tersebut ditempelkan pada kulit dan melepaskan nikotin ke dalam darah. Ini membantu meredakan keinginan merokok dan gejala putus zat saat orang berhenti merokok. Untuk mempelajari efektivitas koyo nikotin, sekelompok 100 perokok yang ingin berhenti merokok dipilih secara acak. Kelompok tersebut akan dipelajari selama enam bulan. Efektivitas koyo nikotin akan diukur dengan mencari tahu berapa banyak orang dalam kelompok tersebut yang tidak merokok lagi pada akhir penelitian. Manakah dari berikut ini yang merupakan desain eksperimen terbaik?"
+    ],
+    "answer": [
+      "Untuk mentransfer oksigen dari udara yang Anda hirup ke darah Anda.",
+      "Separuhnya dipilih secara acak untuk menggunakan patch dan separuhnya lagi tidak menggunakannya."
+    ]
+  },
+  {
+    "title": "Wind Farms",
+    "context": "Banyak orang percaya bahwa angin harus menggantikan minyak dan batu bara sebagai sumber energi untuk menghasilkan listrik. Struktur dalam gambar adalah kincir angin dengan bilah yang diputar oleh angin. Rotasi ini menyebabkan listrik dihasilkan oleh generator yang diputar oleh kincir angin.",
+    "question": [
+      "Semakin tinggi ketinggiannya, semakin lambat kincir angin berputar pada kecepatan angin yang sama. Manakah dari berikut ini yang merupakan alasan terbaik mengapa bilah kincir angin berputar lebih lambat di tempat yang lebih tinggi pada kecepatan angin yang sama?"
+    ],
+    "answer": [
+      "Udara menjadi kurang padat seiring bertambahnya ketinggian."
+    ]
+  }
+]

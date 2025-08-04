@@ -1,0 +1,37 @@
+--- Memproses Dataset PISA ---
+
+--- Memulai proses untuk dataset: indo_pisa.json ---
+Memuat dataset dari: /home/samuel/tasi2425103/revisi/dataset/indo_pisa.json
+Total entri yang diproses untuk pembagian: 22
+Total judul unik yang akan dibagi: 19
+Jumlah judul Train: 15
+Jumlah judul Validation: 2
+Jumlah judul Test: 2
+
+Jumlah data (entri unik konteks/QA) dalam split:
+Train: 16
+Validation: 2
+Test: 4
+Split 'train_pisa.json' disimpan di: /home/samuel/tasi2425103/revisi/split/pisa/train_pisa.json
+Split 'valid_pisa.json' disimpan di: /home/samuel/tasi2425103/revisi/split/pisa/valid_pisa.json
+Split 'test_pisa.json' disimpan di: /home/samuel/tasi2425103/revisi/split/pisa/test_pisa.json
+Proses split Dataset PISA selesai!
+
+--- Memproses Dataset SQUAD ---
+
+--- Memulai proses untuk dataset: indo_squad.json ---
+Memuat dataset dari: /home/samuel/tasi2425103/revisi/dataset/indo_squad.json
+Total entri yang diproses untuk pembagian: 86821
+Total judul unik yang akan dibagi: 440
+Jumlah judul Train: 352
+Jumlah judul Validation: 44
+Jumlah judul Test: 44
+
+Jumlah data (entri unik konteks/QA) dalam split:
+Train: 68900
+Validation: 8527
+Test: 9394
+Split 'train_squad.json' disimpan di: /home/samuel/tasi2425103/revisi/split/squad/train_squad.json
+Split 'valid_squad.json' disimpan di: /home/samuel/tasi2425103/revisi/split/squad/valid_squad.json
+Split 'test_squad.json' disimpan di: /home/samuel/tasi2425103/revisi/split/squad/test_squad.json
+Proses split Dataset SQUAD selesai!
